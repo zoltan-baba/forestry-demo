@@ -1,6 +1,6 @@
 ---
 navigation:
-- weight: 2
+- weight: 1
   url: "/bitrise"
   parent: _index
   title: Bitrise
