@@ -8,7 +8,8 @@ menu:
   footer:
     identifier: _posts
     url: "/posts/"
-    weight: 2
+    weight: 1
+    parent: _projects
   navigation:
     identifier: _posts
     url: "/posts/"
